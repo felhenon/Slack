@@ -7,11 +7,9 @@ public class CreateChannel {
         if(x==0){
             System.out.println("equal");
         }
-        String word = "Welcome to JavaWorld";
-        if(word=="hello"){
-            System.out.println("hello");
-        }else{
-            System.out.println("Good bye");
-        }
+
+        String str = "Hello World";
+        System.out.println(s);
+
     }
 }
