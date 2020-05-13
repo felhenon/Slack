@@ -7,5 +7,7 @@ public class CreateChannel {
         if(x==0){
             System.out.println("equal");
         }
+        String str = "Hello World";
+        System.out.println(s);
     }
 }
